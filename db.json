@@ -1,0 +1,24 @@
+[	
+	{
+		"id": "1e5c6c89-30ad-40b9-95ce-c39ca3f79ff4",
+		"name": "big truck tacos",
+		"utc_creation_date": "2018-01-29T01:48:29"
+		"description": "some desc",
+		"cuisine": "food",
+		"email": "email@email.com",
+		"phone": "999-999-9999",
+		"web": "www.web.web",
+		"image_url": "www.google.com"
+	},
+	{
+		"id": "1e5c6c89-30ad-40b9-95ce-c39ca3f79ff3",
+		"name": "big burgers",
+		"utc_creation_date": "2018-01-30T01:48:29"
+		"description": "some asdf",
+		"cuisine": "burgers",
+		"email": "email@email.com",
+		"phone": "999-999-9999",
+		"web": "www.web.web",
+		"image_url": "www.google.com"
+	}
+]
