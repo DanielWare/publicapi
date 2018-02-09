@@ -2,25 +2,61 @@
 	"trucks":[
 		{
 			"id": "1e5c6c89-30ad-40b9-95ce-c39ca3f79ff4",
+			"utc_date_created": "2018-01-29T01:48:29",
+			"utc_date_modified": "",
 			"name": "big truck tacos",
-			"utc_creation_date": "2018-01-29T01:48:29",
 			"description": "some desc",
 			"cuisine": "food",
 			"email": "email@email.com",
 			"phone": "999-999-9999",
-			"web": "www.web.web",
-			"image_url": "www.google.com"
+			"image_url": "",
+			"website": "www.google.com",
+			"schedules":[
+				{
+					"id":"eddc3d85-0837-4a95-b921-ca1d97d7589c",
+					"utc_date_created": "2018-01-30T01:48:29",
+					"utc_date_modified": "",
+					"truck_id": "1e5c6c89-30ad-40b9-95ce-c39ca3f79ff4",
+					"address_line_1": "711 Jona Kay Terrace",
+					"address_line_2": "",
+					"city": "Norman",
+					"state": "Ok",
+					"zipcode": "73069",
+					"start_time": "2/9/2018 4:10:17 AM",
+					"end_time": "2/9/2018 6:10:17 AM",
+					"latitude": "",
+					"longitude": ""
+				}
+			]
 		},
 		{
 			"id": "1e5c6c89-30ad-40b9-95ce-c39ca3f79ff3",
+			"utc_date_created": "2018-01-30T01:48:29",
+			"utc_date_modified": "",
 			"name": "big burgers",
-			"utc_creation_date": "2018-01-30T01:48:29",
 			"description": "some asdf",
 			"cuisine": "burgers",
 			"email": "email@email.com",
 			"phone": "999-999-9999",
-			"web": "www.web.web",
-			"image_url": "www.google.com"
+			"image_url": "",
+			"website": "www.google.com",
+			"schedules":[
+				{
+					"id":"eddc3d85-0837-4a95-b921-ca1d97d7589c",
+					"utc_date_created": "2018-01-30T01:48:29",
+					"utc_date_modified": "",
+					"truck_id": "1e5c6c89-30ad-40b9-95ce-c39ca3f79ff3",
+					"address_line_1": "711 Jona Kay Terrace",
+					"address_line_2": "",
+					"city": "Norman",
+					"state": "Ok",
+					"zipcode": "73069",
+					"start_time": "2/9/2018 4:10:17 AM",
+					"end_time": "2/9/2018 6:10:17 AM",
+					"latitude": "",
+					"longitude": ""
+				}
+			]
 		}
 	]
 }
